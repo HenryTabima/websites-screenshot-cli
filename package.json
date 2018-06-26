@@ -1,0 +1,15 @@
+{
+  "name": "web-screenshots",
+  "version": "1.0.0",
+  "description": "A simple script that use puppeteer to take page screenshot.",
+  "bin": "urlscreenshot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Tabima Giraldo <henrytabima.dev@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "puppeteer": "^1.5.0"
+  }
+}
