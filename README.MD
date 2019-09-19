@@ -40,6 +40,12 @@ chmod +x urlscreenshot.js   // this is only once
 
 > **PD:** is better if you copy and paste the url from the website
 
+#### Example
+
+![usage gif](usage-example.gif)
+Result:
+![screenshot result](result-example.png)
+
 #### **The Config File**
 
 ```javascript
