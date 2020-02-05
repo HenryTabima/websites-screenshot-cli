@@ -1,6 +1,6 @@
 # **Websites screenshot cli**
 
-CLI script to take screenshots for a specific URL. usefull to take images for your personal projects
+CLI script to take screenshots for a specific URL. useful to take images for your personal projects
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Clone or download this repository
 git clone git@github.com:HenryTabima/websites-screenshot-cli.git
 ```
 
-Open the porject folder and install dependencies
+Open the project folder and install dependencies
 
 ```bash
 cd websites-screenshot-cli
