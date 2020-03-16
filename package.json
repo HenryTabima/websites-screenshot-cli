@@ -13,7 +13,7 @@
   "author": "Henry Tabima Giraldo <henrytabima.dev@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "puppeteer": "^1.5.0"
   },
   "devDependencies": {
