@@ -7,7 +7,7 @@ CLI script to take screenshots for a specific URL. useful to take images for you
 These instructions will get you a copy of the project up and running on your local machine for development and usage purposes.
 
 ### Prerequisites
-STEPS TO DO THE SAME.
+STEPS-
 You need to have `Node` installed and the `Google Chrome` browser.
 
 ### Installing
