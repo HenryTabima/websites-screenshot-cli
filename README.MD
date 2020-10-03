@@ -1,4 +1,4 @@
-# **Websites screenshot cli**
+# **Websites screenshot CLI**
 
 CLI script to take screenshots for a specific URL. useful to take images for your personal projects
 
@@ -7,12 +7,12 @@ CLI script to take screenshots for a specific URL. useful to take images for you
 These instructions will get you a copy of the project up and running on your local machine for development and usage purposes.
 
 ### Prerequisites
-
-You need to have `Node` installed and the `Google Chrome` browser
+STEPS-
+You need to have `Node` installed and the `Google Chrome` browser.
 
 ### Installing
 
-Clone or download this repository
+Clone or download this repository.
 
 ```bash
 git clone git@github.com:HenryTabima/websites-screenshot-cli.git
